@@ -1,0 +1,14 @@
+<filmes>
+	<filme>
+		<id>1</id>
+		<title>2</title>
+		<description>3</description>
+		<genre>4</genre>
+	</filmes>
+	<filme>
+		<id>1</id>
+		<title>2</title>
+		<description>3</description>
+		<genre>4</genre>
+	</filmes>
+</filmes>
