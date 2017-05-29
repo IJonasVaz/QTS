@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><filmes>
+    <filme>
+        <id>1</id>
+        <title>Gravity</title>
+        <description>DescGravity</description>
+        <genre>Ficçao Cientifica</genre>
+    </filme>
+    <filme>
+        <id>2</id>
+        <title>SdA</title>
+        <description>DescSdA</description>
+        <genre>Aventura</genre>
+    </filme>
+    <filme>
+        <id>3</id>
+        <title>Interview</title>
+        <description>DescInterview</description>
+        <genre>Comedia</genre>
+    </filme>
+</filmes>
